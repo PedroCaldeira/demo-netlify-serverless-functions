@@ -1,0 +1,22 @@
+{
+  "name": "demo-netlify-serverless-functions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PedroCaldeira/demo-netlify-serverless-functions.git"
+  },
+  "author": "Pedro Caldeira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PedroCaldeira/demo-netlify-serverless-functions/issues"
+  },
+  "homepage": "https://github.com/PedroCaldeira/demo-netlify-serverless-functions#readme",
+  "devDependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
